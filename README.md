@@ -6,12 +6,14 @@ In my final semester, I focused on studying website design fundamentals using HT
 I also advanced to learning frameworks such as ReactJs.
 
 Education
+
     Degree, National Taichung University of Science and Technology, Taichung
     September 2017 — June 2021
     Information Management
     - Average Score:79.51
     
 Certification
+
     Fundamentals of e-Commerce
     CRM Certification
     e-Enterprise Assistant Planner Certification
