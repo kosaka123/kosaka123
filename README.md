@@ -13,10 +13,10 @@ Information Management
 Extra-curricular activitie
 
 Certification
-Fundamentals of e-Commerce
-CRM Certification
-e-Enterprise Assistant Planner Certification
-Application Engineer of Enterprise Resource Planning
+    Fundamentals of e-Commerce
+    CRM Certification
+    e-Enterprise Assistant Planner Certification
+    Application Engineer of Enterprise Resource Planning
 
 📚 Langues and Frameworks
 
