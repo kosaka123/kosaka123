@@ -1,6 +1,6 @@
 I am Ong Ching Khai
 
-I am Malaysian.Now,I'm leaving in Taiwan.
+I am Malaysian.
 
 In my final semester, I focused on studying website design fundamentals using HTML, CSS and Javascript through YouTube and books.
 I also advanced to learning frameworks such as ReactJs.
